@@ -1,0 +1,10 @@
+========================================
+Date         : 2026-06-13
+Time         : 20:17:34
+Program Name : Log File Generator
+Activity     : logging
+========================================
+Date         : 2026-06-13
+Time         : 20:17:47
+Program Name : Log File Generator
+Activity     : User exited the program
